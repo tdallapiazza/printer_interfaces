@@ -19,6 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PrinterState.msg"
   "msg/HeaterBed.msg"
   "msg/Extruder.msg"
+  "msg/MotionReport.msg"
   DEPENDENCIES builtin_interfaces)
 
 if(BUILD_TESTING)
