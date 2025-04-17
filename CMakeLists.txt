@@ -20,6 +20,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/HeaterBed.msg"
   "msg/Extruder.msg"
   "msg/MotionReport.msg"
+  "msg/Fans.msg"
   DEPENDENCIES builtin_interfaces)
 
 if(BUILD_TESTING)
