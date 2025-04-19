@@ -1,0 +1,7 @@
+# Call this service to set the heater bed temperaure
+
+float64 temperature
+
+---
+
+string result

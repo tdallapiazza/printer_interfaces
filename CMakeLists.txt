@@ -24,6 +24,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DisplayStatus.msg"
   "msg/FilamentSwitchSensor.msg"
   "msg/PrintStats.msg"
+  "srv/SetBedTemperature.srv"
   DEPENDENCIES builtin_interfaces)
 
 if(BUILD_TESTING)
