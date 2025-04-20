@@ -1,0 +1,5 @@
+# Execute a GCode command or several commands separated by a newline
+
+string commands
+---
+string result

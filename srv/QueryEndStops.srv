@@ -1,0 +1,9 @@
+# Query the endstops status
+
+string TRIGGERED = "TRIGGERED"
+string UNTRIGGERED = "open"
+
+---
+string x
+string y
+string z

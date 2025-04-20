@@ -1,4 +1,4 @@
-# Call this service to set the heater bed temperaure
+# Call this service to set the extruder temperaure
 string SUCCESS="ok"
 
 float64 temperature

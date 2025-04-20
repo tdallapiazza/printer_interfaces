@@ -25,6 +25,13 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/FilamentSwitchSensor.msg"
   "msg/PrintStats.msg"
   "srv/SetBedTemperature.srv"
+  "srv/SetExtruderTemperature.srv"
+  "srv/ExecuteGCode.srv"
+  "srv/StartPrintJob.srv"
+  "srv/PausePrintJob.srv"
+  "srv/ResumePrintJob.srv"
+  "srv/CancelPrintJob.srv"
+  "srv/QueryEndStops.srv"
   DEPENDENCIES builtin_interfaces)
 
 if(BUILD_TESTING)

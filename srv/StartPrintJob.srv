@@ -1,0 +1,7 @@
+# Start a new print job
+
+string SUCCESS="ok"
+
+string filename
+---
+string result
