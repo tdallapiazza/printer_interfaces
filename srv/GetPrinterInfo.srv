@@ -1,0 +1,10 @@
+# Get the detailed printer informations
+
+---
+string hostname
+string config_file
+string software_version
+string cpu_info
+string manufacturer
+string model
+string location

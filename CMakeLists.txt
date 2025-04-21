@@ -32,6 +32,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/ResumePrintJob.srv"
   "srv/CancelPrintJob.srv"
   "srv/QueryEndStops.srv"
+  "srv/GetPrinterInfo.srv"
   DEPENDENCIES builtin_interfaces)
 
 if(BUILD_TESTING)
