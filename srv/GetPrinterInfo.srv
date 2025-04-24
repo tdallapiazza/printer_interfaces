@@ -1,6 +1,8 @@
 # Get the detailed printer informations
 
 ---
+string state
+string state_message
 string hostname
 string config_file
 string software_version
