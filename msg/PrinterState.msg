@@ -13,4 +13,3 @@ string   KLIPPER_ERR = 'klipper error'
 builtin_interfaces/Time     stamp
 string   current_state
 string   previous_state
-string   state_message
