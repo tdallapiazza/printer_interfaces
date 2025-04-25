@@ -1,7 +1,5 @@
 # Query the endstops status
-
-string TRIGGERED = "TRIGGERED"
-string UNTRIGGERED = "open"
+# the results are even "TRIGGERED" or "open"
 
 ---
 string x
