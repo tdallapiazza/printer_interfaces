@@ -1,5 +1,5 @@
 # Call this service to set the heater bed temperaure
-string SUCCESS="ok"
+
 
 float64 temperature
 

@@ -1,5 +1,4 @@
 # Call this service to set the extruder temperaure
-string SUCCESS="ok"
 
 float64 temperature
 
