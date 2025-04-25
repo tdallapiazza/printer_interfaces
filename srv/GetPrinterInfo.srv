@@ -10,3 +10,10 @@ string cpu_info
 string manufacturer
 string model
 string location
+float32 bed_x_dimension
+float32 bed_y_dimension
+float32 bed_rated_power
+string hotend_manufacturer
+string hotend_model
+float32 hotend_nozzle_diameter
+float32 hotend_rated_power
